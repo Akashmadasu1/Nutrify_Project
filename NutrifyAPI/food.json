@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Apple",
+    "calories": 52,
+    "protein": 0.3,
+    "fat": 0.2,
+    "fiber": 2.4,
+    "carbohydrates": 14,
+    "img": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+  },
+  {
+    "name": "Banana",
+    "calories": 89,
+    "protein": 1.1,
+    "fat": 0.3,
+    "fiber": 2.6,
+    "carbohydrates": 23,
+    "img": "https://images.unsplash.com/photo-1574226516831-e1dff420e37d"
+  },
+  {
+    "name": "Chicken Breast",
+    "calories": 165,
+    "protein": 31,
+    "fat": 3.6,
+    "fiber": 0,
+    "carbohydrates": 0,
+    "img": "https://images.unsplash.com/photo-1603048297619-73c3d5fbd6c8"
+  },
+  {
+    "name": "Broccoli",
+    "calories": 55,
+    "protein": 3.7,
+    "fat": 0.6,
+    "fiber": 2.4,
+    "carbohydrates": 11,
+    "img": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2"
+  },
+  {
+    "name": "Almonds",
+    "calories": 579,
+    "protein": 21,
+    "fat": 49,
+    "fiber": 12.5,
+    "carbohydrates": 22,
+    "img": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7"
+  },
+  {
+    "name": "Salmon",
+    "calories": 208,
+    "protein": 20,
+    "fat": 13,
+    "fiber": 0,
+    "carbohydrates": 0,
+    "img": "https://images.unsplash.com/photo-1584270354949-1f3c70c81fa4"
+  },
+  {
+    "name": "Oats",
+    "calories": 389,
+    "protein": 16.9,
+    "fat": 6.9,
+    "fiber": 10.6,
+    "carbohydrates": 66.3,
+    "img": "https://images.unsplash.com/photo-1615484477740-3b5040501b4d"
+  },
+  {
+    "name": "Egg",
+    "calories": 155,
+    "protein": 13,
+    "fat": 11,
+    "fiber": 0,
+    "carbohydrates": 1.1,
+    "img": "https://images.unsplash.com/photo-1584270354830-1a3e5d92e149"
+  },
+  {
+    "name": "Spinach",
+    "calories": 23,
+    "protein": 2.9,
+    "fat": 0.4,
+    "fiber": 2.2,
+    "carbohydrates": 3.6,
+    "img": "https://images.unsplash.com/photo-1604908177225-bfdb164fa8d3"
+  },
+  {
+    "name": "Sweet Potato",
+    "calories": 86,
+    "protein": 1.6,
+    "fat": 0.1,
+    "fiber": 3,
+    "carbohydrates": 20,
+    "img": "https://images.unsplash.com/photo-1606756793361-6ccaf1653e7e"
+  }
+]

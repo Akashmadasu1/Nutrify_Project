@@ -1,0 +1,9 @@
+register
+login
+
+below endpoints must be accessed only with a token
+
+search all food
+search food by name
+track food for me
+show my tracked foods
