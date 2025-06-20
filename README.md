@@ -18,7 +18,7 @@ Nutrify is a full-stack MERN application designed to help users track their dail
 
 **Frontend:**
 - React.js
-- HTML/CSS (or Tailwind, if used)
+- HTML/CSS
 - Axios
 
 **Backend:**
